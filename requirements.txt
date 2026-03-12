@@ -1,0 +1,13 @@
+torch
+torchvision
+fastapi
+uvicorn[standard]
+streamlit
+requests
+Pillow
+pandas
+numpy<2
+scikit-learn
+matplotlib
+seaborn
+python-multipart

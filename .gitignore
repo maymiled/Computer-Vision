@@ -1,9 +1,0 @@
-submission/
-data/
-venv/
-__pycache__/
-*.pyc
-*.pyo
-.DS_Store
-api/weights/
-*.pt
